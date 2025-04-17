@@ -1,12 +1,11 @@
-# Projeto-Site-Drag-es-
-Repositório criado com o objetivo de armazenar código e infraestrutura do site de Dragões 
+*Repositório do Projeto Dragões*
 
-Desenvolvedores e integrantes do grupo: Carol, Vitoria, Marina e Vinícius.
+Este repositório foi criado com o objetivo de armazenar o código-fonte e a infraestrutura do site do Projeto Dragões.
 
-Lider:Carol Cripa.
+*Equipe de desenvolvimento:*
 
-Como idéia base para desenvolvimento deste projeto, pensamos em um site onde o usuário poderia acessar, e a partir de uma serie de perguntas, de acordo com as suas próprias respostas. Seria levado a um resultado final, onde de acordo com suas respostas, seria exibido 01 dragão que se adequa ao seu perfil, com base nas próprias respostas enviadas pelo usuário.
+Carol Cripa, Bruno Guilherme?, Marina? e Vinícius Reis, Vitória Cripa.
 
-Segue abaixo protótipo no Figma:
+Líder do projeto: Carol Cripa
 
-https://www.figma.com/design/jPpbFC5Os0L4PR6cPnaI38/Prototipo-Site-Drag%C3%B5es?node-id=0-1&t=GtfUrQ5NPaJ1yOOX-1
+A ideia central do projeto é a criação de um site interativo, onde o usuário responde a uma série de perguntas. Com base em suas respostas, o sistema o direciona a um resultado final: a apresentação de um dragão que melhor representa o seu perfil.
