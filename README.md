@@ -4,7 +4,7 @@ Este repositório foi criado com o objetivo de armazenar o código-fonte e a inf
 
 *Equipe de desenvolvimento:*
 
-Carol Cripa, Bruno Guilherme?, Marina? e Vinícius Reis, Vitória Cripa.
+Carol Cripa, Bruno Arruda, Marina Souza, Vinícius Reis e Vitória Cripa.
 
 Líder do projeto: Carol Cripa
 
