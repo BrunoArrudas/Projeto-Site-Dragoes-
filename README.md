@@ -2,9 +2,9 @@
 
 Este repositório foi criado com o objetivo de armazenar o código-fonte e a infraestrutura do site do Projeto Dragões.
 
-*Equipe de desenvolvimento:*
-
 Líder do projeto: Carol Cripa
+
+*Equipe de desenvolvimento:*
 
 Carol Cripa, Bruno Arruda, Marina Sousa, Vinícius Reis e Vitória Cripa.
 
