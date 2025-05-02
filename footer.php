@@ -2,7 +2,7 @@
 <footer class="text-center">
     
       </div>
-      <p>&copy; 2025 Site criado pelos alunos de ADS da Uninove - Grupo: Corage, o cão covarde! Todos os direitos reservados.</p>
+      <p>&copy; 2025 Site criado pelos alunos de ADS da Uninove - Grupo: Coragem, o cão covarde! Todos os direitos reservados.</p>
     </div>
   </footer>
 
