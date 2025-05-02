@@ -11,7 +11,7 @@
 
     .navbar {
       width: 100%;
-      background-color: #333;
+      background-color:black
     }
 
     .navbar ul {
@@ -50,7 +50,7 @@
     }
 
     footer {
-      background-color: #333;
+      background-color:black;
       color: white;
       padding: 8px 0;
       width: 100%;
@@ -106,9 +106,9 @@
     </a>
     <ul>
       <li><a class="active" href="index.php">Home</a></li>
-      <li><a href="registroCarro.php">Perfil</a></li>
-      <li><a href="cadastro.php">Entre em contato conosco</a></li>
-      <li><a href="sobre.php">Nossa missão</a></li>
+      <li><a href="perfil.php">Perfil</a></li>
+      <li><a href="cadastro.php">Nossa Missão</a></li>
+      <li><a href="sobre.php">Entre em contato conosco</a></li>
     </ul>
   </div>
 </body>

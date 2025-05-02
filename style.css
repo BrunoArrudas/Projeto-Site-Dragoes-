@@ -1,3 +1,5 @@
+/* CSS da pagina Index.php */
+
 #container-dragao img {
     width: 100%;
     height:100vh;
@@ -9,3 +11,27 @@
     height:100vh;
     background-size: cover;
 }
+
+/* CSS da pagina Perfil.php */
+
+.container-usuario {
+    display: flex;
+    justify-content: flex-start; 
+    align-items: center; 
+    width: 100%; 
+    margin: 0 auto; 
+    padding: 20px;
+    max-width: 100%; 
+    box-sizing: border-box; 
+    background-color: black;
+  }
+
+  #imageUser{
+    border-radius: 50px;
+  }
+
+  #paragrafoInfoUsuarios {
+   padding-left: 50px;
+   color: aliceblue;
+  }
+
