@@ -16,7 +16,7 @@ include_once 'header.php';
 
     <div id="container-dragao">
 
-        <img src="Images/fundoPrincipal.jpg" alt="">
+        <img src="Images/fundoPrincipal.png" alt="">
 
     </div>
 
