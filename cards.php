@@ -1,5 +1,7 @@
 <?php
 include_once 'config/database.php';
+include_once 'entity/perguntasCards.php';
+include_once 'dao/perguntasCards.DAO.php';
 include_once 'header.php';
 
 $sql = "SELECT * FROM imagens_cards";
