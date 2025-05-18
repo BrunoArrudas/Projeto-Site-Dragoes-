@@ -6,7 +6,7 @@ class Database {
     public static function getInstance() {
         if(self::$instance === null) {
             $host = 'localhost';
-            $dbname = 'loja_nbpr';
+            $dbname = 'projeto_dragoes';
             $username = 'root';
             $password = '';
 
