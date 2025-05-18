@@ -2,10 +2,10 @@
 include_once 'config/database.php';
 
 // Consulta os usuários
-$sql = "SELECT * FROM info_usuarios";
+$sql = "SELECT * FROM imagens_cards";
 $stmt = $pdo->prepare($sql);
 $stmt->execute();
-$usuarios = $stmt->fetchAll(PDO::FETCH_ASSOC);
+$perguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
 ?>
 
 <!DOCTYPE html>
@@ -24,11 +24,7 @@ $usuarios = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <div class="container">
     <?php foreach ($perguntas as $perguntas): ?>
         <div class="card">
-            <img src="imagens/<?php echo htmlspecialchars($usuario['imagem']); ?>" alt="Foto de <?php echo htmlspecialchars($usuario['nome']); ?>">
-            <h3><?php echo htmlspecialchars($usuario['nome']); ?></h3>
-            <p><strong>Email:</strong> <?php echo htmlspecialchars($usuario['email']); ?></p>
-            <p><strong>Telefone:</strong> <?php echo htmlspecialchars($usuario['telefone']); ?></p>
-            <p><strong>Nascimento:</strong> <?php echo date('d/m/Y', strtotime($usuario['data_nascimento'])); ?></p>
+            <img src="images/<?php echo htmlspecialchars($perguntas['imagem']); ?>" alt="">
         </div>
     <?php endforeach; ?>
 </div>
