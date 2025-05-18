@@ -33,5 +33,9 @@ public function getSenhaUsuario(){return $this->senhaUsuario;}
 
 public function setId($id) {$this->id = $id;}
 public function setNome($nomeUsuario) {$this->nomeUsuario = $nomeUsuario;}
+public function setDataNascimento($dataNascimentoUsuario) {$this->dataNascimentoUsuario = $dataNascimentoUsuario;}
+public function setEmailUsuario($emailUsuario) {$this->emailUsuario = $emailUsuario;}
+public function setTelefoneUsuario($telefoneUsuario) {$this->telefoneUsuario = $telefoneUsuario;}
+public function setSenhaUsuario($senhaUsuario) {$this->senhaUsuario = $senhaUsuario;}
 
 }
