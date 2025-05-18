@@ -7,4 +7,12 @@ CREATE TABLE `info_usuarios` (
   `email` varchar(50) NOT NULL,
   `telefone` varchar(20) NOT NULL,
   `senha` varchar(30) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) 
+
+CREATE TABLE imagens_cards (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    imagem VARCHAR(100)
+);
+
+INSERT INTO projeto_dragoes (imagem) VALUES
+('fogo01.jpg');
