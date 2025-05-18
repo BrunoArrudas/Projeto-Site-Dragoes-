@@ -31,6 +31,28 @@ class UsuarioDAO{
         }
     }
 
+    public function getAll(){
+        try{
+            $sql = "SELECT * FROM info_usuarios";
+            $stmt = $this->db->prepare($sql);
+            $stmt->execute();
+            $usuario = $stmt->fetchAll(PDO::FETCH_ASSOC);
+
+            return array_map(function($usuario){
+                return new Usuario($usuario['id'],
+                $usuario['nome'],
+                $usuario['data_nascimento'],
+                $usuario['email'],
+                $usuario['telefone'],
+                $usuario['senha']);
+            }, $usuario);
+
+        }catch (PDOException $e){
+            return [];
+        }
+    }
+
+
     public function create($usuario){
         try{
             $sql = "INSERT INTO info_usuarios(nome,data_nascimento,email,telefone,senha)
