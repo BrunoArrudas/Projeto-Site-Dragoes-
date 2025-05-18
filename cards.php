@@ -19,10 +19,10 @@ $usuarios = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body>
 
-<h1 style="text-align:center;">Usuários Cadastrados</h1>
+<h1 style="text-align:center;">Se você fosse um dragão, qual seria a sua conexão com os elementos da natureza?</h1>
 
 <div class="container">
-    <?php foreach ($usuarios as $usuario): ?>
+    <?php foreach ($perguntas as $perguntas): ?>
         <div class="card">
             <img src="imagens/<?php echo htmlspecialchars($usuario['imagem']); ?>" alt="Foto de <?php echo htmlspecialchars($usuario['nome']); ?>">
             <h3><?php echo htmlspecialchars($usuario['nome']); ?></h3>
