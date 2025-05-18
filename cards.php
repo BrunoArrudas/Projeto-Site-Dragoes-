@@ -1,7 +1,7 @@
 <?php
 include_once 'config/database.php';
+include_once 'header.php';
 
-// Consulta os usuários
 $sql = "SELECT * FROM imagens_cards";
 $stmt = $pdo->prepare($sql);
 $stmt->execute();
@@ -31,3 +31,7 @@ $perguntas = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
 </body>
 </html>
+
+<?php
+include_once 'footer.php';
+?>
