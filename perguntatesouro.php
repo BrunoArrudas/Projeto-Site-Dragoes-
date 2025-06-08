@@ -2,23 +2,23 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Guardião</title>
+    <title>Tesouro</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="cards.css">
 </head>
 <body>
 
-<h3 style="text-align: center;">Qual guardião protegeria o seu reino?</h3>
+<h3 style="text-align: center;">Qual seria o seu tesouro mais valioso?</h3>
 
 <div class="container">
-    <a href="perguntaguardiao.php?guardiao=grifo" class="card">
-        <img src="images/" alt="grifo">
+    <a href="perguntainimigo.php?tesouro=bau" class="card">
+        <img src="images/" alt="bau">
     </a>
-    <a href="perguntaguardiao.php?guardiao=serpente" class="card">
-        <img src="images/" alt="serpente">
+    <a href="perguntainimigo.php?tesouro=grimorio" class="card">
+        <img src="images/" alt="grimorio">
     </a>
-    <a href="perguntaguardiao.php?guardiao=lobo" class="card">
-        <img src="images/" alt="lobo">
+    <a href="perguntainimigo.php?tesouro=coroa" class="card">
+        <img src="images/" alt="coroa">
     </a>
 </div>
 
@@ -26,16 +26,16 @@
 
 <div class="container">
     
-     <a href="perguntaguardiao.php?guardiao=fenix" class="card">
-        <img src="images/" alt="fenix">
+     <a href="perguntainimigo.php?tesouro=reliquia" class="card">
+        <img src="images/" alt="reliquia">
     </a>
 
-     <a href="perguntaguardiao.php?guardiao=colosso" class="card">
-        <img src="images/" alt="colosso">
+     <a href="perguntainimigo.php?tesouro=armas" class="card">
+        <img src="images/" alt="armas">
     </a>
 
-       <a href="perguntaguardiao.php?guardiao=ancestral" class="card">
-        <img src="images/" alt="ancestral">
+       <a href="perguntainimigo.php?tesouro=ovo" class="card">
+        <img src="images/" alt="ovo">
     </a>
 
   
