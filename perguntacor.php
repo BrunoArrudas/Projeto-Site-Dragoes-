@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Território</title>
+    <title>Cor</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="cards.css">
 </head>
@@ -11,13 +11,13 @@
 <h3 style="text-align: center;">Qual seria o seu território?</h3>
 
 <div class="container">
-    <a href="pergunta.cor?territorio=vulcao" class="card">
+    <a href="pergunta.php?territorio=vulcao" class="card">
         <img src="images/vulcao.jpg" alt="vulcao">
     </a>
-    <a href="pergunta.cor?territorio=oceano" class="card">
+    <a href="pergunta.php?territorio=oceano" class="card">
         <img src="images/oceano.jpg" alt="oceano">
     </a>
-    <a href="pergunta.cor?territorio=floresta" class="card">
+    <a href="pergunta.php?territorio=floresta" class="card">
         <img src="images/floresta.jpg" alt="floresta">
     </a>
 </div>
@@ -26,15 +26,15 @@
 
 <div class="container">
     
-     <a href="perguntacor.php?territorio=montanhas" class="card">
+     <a href="pergunta.php?territorio=montanhas" class="card">
         <img src="images/montanhas.jpg" alt="montanhas">
     </a>
 
-     <a href="perguntacor.php?territorio=deserto" class="card">
+     <a href="pergunta.php?territorio=deserto" class="card">
         <img src="images/deserto.jpg" alt="deserto">
     </a>
 
-     <a href="perguntacor.php?territorio=ceu" class="card">
+     <a href="pergunta.php?territorio=ceu" class="card">
         <img src="images/ceu.jpg" alt="ceu">
     </a>
 </div>
