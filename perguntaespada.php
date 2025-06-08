@@ -11,14 +11,14 @@
 <h3 style="text-align: center;">Qual espada você empunharia?</h3>
 
 <div class="container">
-    <a href="pergunta.php?elemento=fogo" class="card">
-        <img src="images/fogo01.jpg" alt="Fogo">
+    <a href="pergunta.php?espada=espadaanoes" class="card">
+        <img src="images/espadaanoes.jpg" alt="espadaanoes">
     </a>
-    <a href="pergunta.php?elemento=agua" class="card">
-        <img src="images/agua.jpg" alt="Água">
+    <a href="pergunta.php?espada=espadacerimonial" class="card">
+        <img src="images/espadacerimonial.jpg" alt="espadacerimonial">
     </a>
-    <a href="pergunta.php?elemento=terra" class="card">
-        <img src="images/terra.jpg" alt="Terra">
+    <a href="pergunta.php?espada=espadaceus" class="card">
+        <img src="images/espadaceus.jpg" alt="espadaceus">
     </a>
 </div>
 
@@ -26,16 +26,16 @@
 
 <div class="container">
     
-     <a href="pergunta.php?elemento=ar" class="card">
-        <img src="images/ar.jpg" alt="Ar">
+     <a href="pergunta.php?espada=espadaguerreiro" class="card">
+        <img src="images/espadaguerreiro.jpg" alt="espadaguerreiro">
     </a>
 
-     <a href="pergunta.php?elemento=gelo" class="card">
-        <img src="images/gelo.jpg" alt="Gelo">
+     <a href="pergunta.php?espada=espadafogo" class="card">
+        <img src="images/espadafogo.jpg" alt="espadafogo">
     </a>
 
-     <a href="pergunta.php?elemento=ar" class="card">
-        <img src="images/relampago.jpg" alt="Relampago">
+     <a href="pergunta.php?espada=espadaespiritual" class="card">
+        <img src="images/espadaespiritual.jpg" alt="espadaespiritual">
     </a>
 </div>
 
