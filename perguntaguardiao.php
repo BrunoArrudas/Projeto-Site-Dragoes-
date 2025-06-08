@@ -11,14 +11,14 @@
 <h3 style="text-align: center;">Qual guardião protegeria o seu reino?</h3>
 
 <div class="container">
-    <a href="perguntaguardiao.php?guardiao=vermelho" class="card">
-        <img src="images/vermelho.jpg" alt="vermelho">
+    <a href="perguntaguardiao.php?guardiao=grifo" class="card">
+        <img src="images/" alt="grifo">
     </a>
-    <a href="perguntaguardiao.php?guardiao=azul" class="card">
-        <img src="images/azul.jpg" alt="azul">
+    <a href="perguntaguardiao.php?guardiao=serpente" class="card">
+        <img src="images/" alt="serpente">
     </a>
-    <a href="perguntaguardiao.php?guardiao=verde" class="card">
-        <img src="images/verde.jpg" alt="verde">
+    <a href="perguntaguardiao.php?guardiao=lobo" class="card">
+        <img src="images/" alt="lobo">
     </a>
 </div>
 
@@ -26,17 +26,19 @@
 
 <div class="container">
     
-     <a href="perguntaguardiao.php?guardiao=dourado" class="card">
-        <img src="images/dourado.jpg" alt="dourado">
+     <a href="perguntaguardiao.php?guardiao=fenix" class="card">
+        <img src="images/" alt="fenix">
     </a>
 
-     <a href="perguntaguardiao.php?guardiao=preto" class="card">
-        <img src="images/preto.png" alt="preto">
+     <a href="perguntaguardiao.php?guardiao=colosso" class="card">
+        <img src="images/" alt="colosso">
     </a>
 
-     <a href="perguntaguardiao.php?guardiao=prateado" class="card">
-        <img src="images/prateado.png" alt="prateado">
+       <a href="perguntaguardiao.php?guardiao=ancestral" class="card">
+        <img src="images/" alt="ancestral">
     </a>
+
+  
 </div>
 
 </body>
