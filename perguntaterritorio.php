@@ -2,23 +2,23 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Qual sua espada?</title>
+    <title>Território</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="cards.css">
 </head>
 <body>
 
-<h3 style="text-align: center;">Qual espada você empunharia?</h3>
+<h3 style="text-align: center;">Qual seria o seu território?</h3>
 
 <div class="container">
-    <a href="pergunta.php?espada=espadaanoes" class="card">
-        <img src="images/espadaanoes.jpg" alt="espadaanoes">
+    <a href="pergunta.php?territorio=vulcao" class="card">
+        <img src="images/vulcao.jpg" alt="vulcao">
     </a>
-    <a href="pergunta.php?espada=espadacerimonial" class="card">
-        <img src="images/espadacerimonial.jpg" alt="espadacerimonial">
+    <a href="pergunta.php?territorio=oceano" class="card">
+        <img src="images/oceano.jpg" alt="oceano">
     </a>
-    <a href="pergunta.php?espada=espadaceus" class="card">
-        <img src="images/espadaceus.jpg" alt="espadaceus">
+    <a href="pergunta.php?territorio=floresta" class="card">
+        <img src="images/floresta.jpg" alt="floresta">
     </a>
 </div>
 
@@ -26,16 +26,16 @@
 
 <div class="container">
     
-     <a href="pergunta.php?espada=espadaguerreiro" class="card">
-        <img src="images/espadaguerreiro.jpg" alt="espadaguerreiro">
+     <a href="pergunta.php?territorio=montanhas" class="card">
+        <img src="images/montanhas.jpg" alt="montanhas">
     </a>
 
-     <a href="pergunta.php?espada=espadafogo" class="card">
-        <img src="images/espadafogo.jpg" alt="espadafogo">
+     <a href="pergunta.php?territorio=deserto" class="card">
+        <img src="images/deserto.jpg" alt="deserto">
     </a>
 
-     <a href="pergunta.php?espada=espadaespiritual" class="card">
-        <img src="images/espadaespiritual.jpg" alt="espadaespiritual">
+     <a href="pergunta.php?territorio=ceu" class="card">
+        <img src="images/ceu.jpg" alt="ceu">
     </a>
 </div>
 
