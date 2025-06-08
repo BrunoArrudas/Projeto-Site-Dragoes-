@@ -11,13 +11,13 @@
 <h3 style="text-align: center;">Qual guardião protegeria o seu reino?</h3>
 
 <div class="container">
-    <a href="perguntatesouro.php?guardiao=grifo" class="card">
+    <a href="perguntaguardiao.php?guardiao=grifo" class="card">
         <img src="images/" alt="grifo">
     </a>
-    <a href="perguntatesouro.php?guardiao=serpente" class="card">
+    <a href="perguntaguardiao.php?guardiao=serpente" class="card">
         <img src="images/" alt="serpente">
     </a>
-    <a href="perguntatesouro.php?guardiao=lobo" class="card">
+    <a href="perguntaguardiao.php?guardiao=lobo" class="card">
         <img src="images/" alt="lobo">
     </a>
 </div>
@@ -26,15 +26,15 @@
 
 <div class="container">
     
-     <a href="perguntatesouro.php?guardiao=fenix" class="card">
+     <a href="perguntaguardiao.php?guardiao=fenix" class="card">
         <img src="images/" alt="fenix">
     </a>
 
-     <a href="perguntatesouro.php?guardiao=colosso" class="card">
+     <a href="perguntaguardiao.php?guardiao=colosso" class="card">
         <img src="images/" alt="colosso">
     </a>
 
-       <a href="perguntatesouro.php?guardiao=ancestral" class="card">
+       <a href="perguntaguardiao.php?guardiao=ancestral" class="card">
         <img src="images/" alt="ancestral">
     </a>
 
