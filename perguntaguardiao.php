@@ -12,13 +12,13 @@
 
 <div class="container">
     <a href="perguntatesouro.php?guardiao=grifo" class="card">
-        <img src="images/" alt="grifo">
+        <img src="images/grifo.jpg" alt="grifo">
     </a>
     <a href="perguntatesouro.php?guardiao=serpente" class="card">
-        <img src="images/" alt="serpente">
+        <img src="images/serpente.jpg" alt="serpente">
     </a>
     <a href="perguntatesouro.php?guardiao=lobo" class="card">
-        <img src="images/" alt="lobo">
+        <img src="images/lobo.jpg" alt="lobo">
     </a>
 </div>
 
@@ -27,15 +27,15 @@
 <div class="container">
     
      <a href="perguntatesouro.php?guardiao=fenix" class="card">
-        <img src="images/" alt="fenix">
+        <img src="images/fenix.jpeg" alt="fenix">
     </a>
 
      <a href="perguntatesouro.php?guardiao=colosso" class="card">
-        <img src="images/" alt="colosso">
+        <img src="images/colosso.jpeg" alt="colosso">
     </a>
 
        <a href="perguntatesouro.php?guardiao=ancestral" class="card">
-        <img src="images/" alt="ancestral">
+        <img src="images/guardiao.jpg" alt="ancestral">
     </a>
 
   

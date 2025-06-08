@@ -12,13 +12,13 @@
 
 <div class="container">
     <a href="perguntainimigo.php?tesouro=bau" class="card">
-        <img src="images/" alt="bau">
+        <img src="images/bau.jpg" alt="bau">
     </a>
     <a href="perguntainimigo.php?tesouro=grimorio" class="card">
-        <img src="images/" alt="grimorio">
+        <img src="images/grimorio.jpg" alt="grimorio">
     </a>
     <a href="perguntainimigo.php?tesouro=coroa" class="card">
-        <img src="images/" alt="coroa">
+        <img src="images/coroa.jpg" alt="coroa">
     </a>
 </div>
 
@@ -27,15 +27,15 @@
 <div class="container">
     
      <a href="perguntainimigo.php?tesouro=reliquia" class="card">
-        <img src="images/" alt="reliquia">
+        <img src="images/reliquia.jpg" alt="reliquia">
     </a>
 
      <a href="perguntainimigo.php?tesouro=armas" class="card">
-        <img src="images/" alt="armas">
+        <img src="images/lendarias.jpg" alt="armas">
     </a>
 
        <a href="perguntainimigo.php?tesouro=ovo" class="card">
-        <img src="images/" alt="ovo">
+        <img src="images/ovo.jpg" alt="ovo">
     </a>
 
   
