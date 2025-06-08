@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h3 style="text-align: center;">Qual seria o seu maior inimigo?</h3>
+<h2 id="h2" style="text-align: center;">Qual seria o seu maior inimigo?</h2>
 
 <div class="container">
     <a href="perguntareino.php?inimigo=cavaleiro" class="card">

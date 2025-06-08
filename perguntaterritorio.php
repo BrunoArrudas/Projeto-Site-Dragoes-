@@ -7,8 +7,16 @@
     <link rel="stylesheet" href="cards.css">
 </head>
 <body>
+    
+<style>
+body {
+  background-image: url("images/fundoterritorio.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
 
-<h3 style="text-align: center;">Qual seria o seu território?</h3>
+<h2 id="h2" style="text-align: center;">Qual seria o seu território?</h2>
 
 <div class="container">
     <a href="perguntacor.php?territorio=vulcao" class="card">

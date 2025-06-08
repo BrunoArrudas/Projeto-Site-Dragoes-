@@ -6,9 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="cards.css">
 </head>
+
+<style>
+body {
+  background-image: url("images/fundoespada.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+
 <body>
 
-<h3 style="text-align: center;">Qual espada você empunharia?</h3>
+<h2 id="h2" style="text-align: center;">Qual espada você empunharia?</h2>
 
 <div class="container">
     <a href="perguntaterritorio.php?espada=espadaanoes" class="card">
