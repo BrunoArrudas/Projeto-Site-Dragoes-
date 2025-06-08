@@ -8,17 +8,17 @@
 </head>
 <body>
 
-<h3 style="text-align: center;">Qual seria o seu território?</h3>
+<h3 style="text-align: center;">Se você fosse um dragão, qual seria a sua cor?</h3>
 
 <div class="container">
     <a href="pergunta.php?territorio=vulcao" class="card">
-        <img src="images/vulcao.jpg" alt="vulcao">
+        <img src="images/vermelho.jpg" alt="vulcao">
     </a>
     <a href="pergunta.php?territorio=oceano" class="card">
-        <img src="images/oceano.jpg" alt="oceano">
+        <img src="images/azul.jpg" alt="oceano">
     </a>
     <a href="pergunta.php?territorio=floresta" class="card">
-        <img src="images/floresta.jpg" alt="floresta">
+        <img src="images/verde.jpg" alt="floresta">
     </a>
 </div>
 
@@ -27,15 +27,15 @@
 <div class="container">
     
      <a href="pergunta.php?territorio=montanhas" class="card">
-        <img src="images/montanhas.jpg" alt="montanhas">
+        <img src="images/dourado.jpg" alt="montanhas">
     </a>
 
      <a href="pergunta.php?territorio=deserto" class="card">
-        <img src="images/deserto.jpg" alt="deserto">
+        <img src="images/preto.png" alt="deserto">
     </a>
 
      <a href="pergunta.php?territorio=ceu" class="card">
-        <img src="images/ceu.jpg" alt="ceu">
+        <img src="images/prateado.png" alt="ceu">
     </a>
 </div>
 

@@ -11,13 +11,13 @@
 <h3 style="text-align: center;">Qual seria o seu território?</h3>
 
 <div class="container">
-    <a href="pergunta.cor?territorio=vulcao" class="card">
+    <a href="perguntacor.php?territorio=vulcao" class="card">
         <img src="images/vulcao.jpg" alt="vulcao">
     </a>
-    <a href="pergunta.cor?territorio=oceano" class="card">
+    <a href="perguntacor.php?territorio=oceano" class="card">
         <img src="images/oceano.jpg" alt="oceano">
     </a>
-    <a href="pergunta.cor?territorio=floresta" class="card">
+    <a href="perguntacor.php?territorio=floresta" class="card">
         <img src="images/floresta.jpg" alt="floresta">
     </a>
 </div>
