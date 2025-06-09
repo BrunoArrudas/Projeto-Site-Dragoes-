@@ -6,8 +6,7 @@ include_once 'header.php';
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Resultado - Seu Dragão</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Resultado</title>
 </head>
 
 <style>
@@ -20,30 +19,10 @@ include_once 'header.php';
 }
 
 body {
-    background-image: url('img/bg-textura.jpg'); /* Se quiser usar uma textura */
+    background-color:rgb(0, 6, 90); 
     background-size: cover;
     background-position: center;
     color: white;
-}
-
-header {
-    background-color: #000;
-    padding: 15px 30px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.nav a {
-    color: white;
-    text-decoration: none;
-    margin-right: 20px;
-}
-
-.user-thumb {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
 }
 
 .resultado-container {
@@ -57,7 +36,7 @@ header {
 }
 
 .dragao-img {
-    width: 300px;
+    width: 500px;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
 }
@@ -86,22 +65,23 @@ footer {
 </style>
 <body>
 
-<header>
-    <div class="nav">
-        <a href="#">Home</a>
-        <a href="#">Perfil</a>
-        <img src="img/user.jpg" alt="Foto do Usuário" class="user-thumb">
-    </div>
-</header>
-
 <main class="resultado-container">
     <h1>SEU RESULTADO É:</h1>
     
-    <img src="img/dragao-colossus.jpg" alt="Dragão Colossus" class="dragao-img">
+    <img src="images/dragaoresultado.png" alt="Dragão Druk" class="dragao-img">
     
-    <h2 class="dragao-nome">DRAGÃO COLOSSUS</h2>
+    <h2 class="dragao-nome">DRAGÃO DRUK</h2>
     
-    <p class="descricao">Texto sobre o dragão</p>
+    <p class="descricao">Druk (འབྲུག་) é o dragão do trovão, uma criatura sagrada no budismo tibetano e o símbolo nacional do Butão. Ele está ligado ao conceito de Drukpa Kagyu, uma escola do budismo fundada no Tibete no século XII.
+O Druk é especialmente venerado em:
+Tibete, onde aparece nos ensinamentos budistas.
+Butão, que se autodenomina "Druk Yul" (Terra do Dragão do Trovão).
+Himalaias, onde lendas dizem que os dragões anunciam trovões nas tempestades.
+Aparência e Características
+
+A Lenda do Druk e o Budismo
+Uma das histórias mais famosas conta que, no século XII, o mestre budista Tsangpa Gyare ouviu o som de um trovão enquanto fundava um mosteiro no Tibete. Ele interpretou isso como um sinal dos dragões celestiais e chamou sua linhagem de Drukpa Kagyu (Escola do Dragão do Trovão).
+Quando essa tradição budista chegou ao Butão, o país adotou o Druk como seu símbolo nacional, e seus reis passaram a ser chamados de Druk Gyalpo (Rei Dragão).</p>
 </main>
 
 </body>
