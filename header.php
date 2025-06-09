@@ -45,7 +45,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      min-height: calc(100vh - 70px); /* Ajuste para considerar a altura do rodapé */
+      min-height: calc(100vh - 70px); 
       padding: 20px;
     }
 
@@ -74,8 +74,6 @@
       border-radius: 80px;
     }
 
-
-    /* Responsividade */
     @media (max-width: 768px) {
       .navbar ul {
         display: flex;
@@ -102,14 +100,13 @@
 
   <div class="navbar">
     <a href="index.php">
-      <img src="images/usuario.jpg" width="50px" id="imgUser">
+      <img src="images/coragemusuario.jpg" width="50px" id="imgUser">
     </a>
     <ul>
       <li><a class="active" href="index.php">Home</a></li>
       <li><a href="perfil.php">Perfil</a></li>
-      <li><a href="grupo.php">Sobre Nosso Grupo</a></li>
       <li><a href="contato.php">Entre em contato conosco</a></li>
-      <li><a href="cards.php">Perguntas</a></li>
+      <li><a href="grupo.php">Sobre Nosso Grupo</a></li>
 
     </ul>
   </div>
