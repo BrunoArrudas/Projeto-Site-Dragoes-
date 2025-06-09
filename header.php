@@ -105,7 +105,6 @@
     <ul>
       <li><a class="active" href="index.php">Home</a></li>
       <li><a href="perfil.php">Perfil</a></li>
-      <li><a href="contato.php">Entre em contato conosco</a></li>
       <li><a href="grupo.php">Sobre Nosso Grupo</a></li>
 
     </ul>
