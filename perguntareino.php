@@ -11,13 +11,13 @@
 <h2 id="h2" style="text-align: center;">Qual seria o seu reino?</h2>
 
 <div class="container">
-    <a href="perguntareino.php?reino=flutuante" class="card">
+    <a href="resultado.php?reino=flutuante" class="card">
         <img src="images/flutuante.jpg" alt="flutuante">
     </a>
-    <a href="perguntareino.php?reino=castelovulcao" class="card">
+    <a href="resultado.php?reino=castelovulcao" class="card">
         <img src="images/castelovulcao.jpg" alt="castelovulcao">
     </a>
-    <a href="perguntareino.php?reino=catesteloprofundezas" class="card">
+    <a href="resultado.php?reino=catesteloprofundezas" class="card">
         <img src="images/casteloprofundezas.jpg" alt="casteloprofundezas">
     </a>
 </div>
@@ -26,15 +26,15 @@
 
 <div class="container">
     
-     <a href="perguntareino.php?reino=florestaencantada" class="card">
+     <a href="resultado.php?reino=florestaencantada" class="card">
         <img src="images/florestaencantada.jpg" alt="florestaencantada">
     </a>
 
-     <a href="perguntareino.php?reino=desertoarido" class="card">
+     <a href="resultado.php?reino=desertoarido" class="card">
         <img src="images/desertoarido.jpg" alt="desertoarido">
     </a>
 
-       <a href="perguntareino.php?reino=reinocongelado" class="card">
+       <a href="resultado.php?reino=reinocongelado" class="card">
         <img src="images" alt="reinocongelado">
     </a>
 
