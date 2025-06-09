@@ -85,7 +85,7 @@ body {
             <label for="senha">Senha</label>
             <input type="password" id="senha" name="senha" placeholder="Informe sua senha" required>
 
-            <button type="submit">Criar Conta</button>
+            <button type="button" onclick="window.location.href='index.php'">Criar Conta</button>
         </form>
     </div>
 </body>
