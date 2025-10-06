@@ -6,7 +6,7 @@ include_once 'header.php';
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Site Dragões</title>
+    <title>Site Dragões </title>
 </head>
 <style>
  
